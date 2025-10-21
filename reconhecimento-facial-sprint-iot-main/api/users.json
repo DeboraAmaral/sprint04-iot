@@ -1,0 +1,46 @@
+{
+  "usuario_teste": {
+    "registered_at": "2025-10-20T22:39:17.184273",
+    "face_image": "usuario_teste_20251020_223917.jpg",
+    "last_login": "2025-10-20T22:39:59.598235",
+    "login_count": 3
+  },
+  "Debora_Amaral": {
+    "registered_at": "2025-10-21T00:12:28.845374",
+    "face_image": "Debora_Amaral_20251021_001228.jpg",
+    "face_features": [
+      0.521875,
+      0.5020833333333333,
+      0.12505208333333334,
+      1.0
+    ],
+    "face_detected": true,
+    "num_faces": 1,
+    "image_shape": [
+      480,
+      640,
+      3
+    ],
+    "last_login": "2025-10-21T00:14:14.061698",
+    "login_count": 2
+  },
+  "teste@teste": {
+    "registered_at": "2025-10-20T23:50:58.271414",
+    "face_image": "teste@teste_20251020_235058.jpg",
+    "face_features": [
+      0.5296875,
+      0.5083333333333333,
+      0.10313802083333333,
+      1.0
+    ],
+    "face_detected": true,
+    "num_faces": 1,
+    "image_shape": [
+      480,
+      640,
+      3
+    ],
+    "last_login": "2025-10-20T23:54:20.876976",
+    "login_count": 2
+  }
+}
